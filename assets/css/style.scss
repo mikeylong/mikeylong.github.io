@@ -1,0 +1,33 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+@import url('https://use.typekit.net/gjm1uea.css');
+
+body {
+	font-family: "benton-sans", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.page-header {
+	background-image: linear-gradient(0deg, $header-bg-color-secondary, $header-bg-color);
+}
+a {
+  color: $body-link-color;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+.btn {
+	text-decoration: none;
+}
+video {
+	width: 100%;
+	height: auto;
+}
+strong {
+	background-color: rgba(0, 255, 200, 0.25);
+	font-weight: normal;
+}
+h1 {
+	border-bottom: rgba(96, 108, 113, 0.25) 1px solid;
+}
