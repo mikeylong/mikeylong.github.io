@@ -28,6 +28,9 @@ strong {
 	background-color: rgba(0, 255, 200, 0.25);
 	font-weight: normal;
 }
-h1 {
+main#content h1 {
 	border-bottom: rgba(96, 108, 113, 0.25) 1px solid;
+}
+h1.project-name {
+	border-bottom: rgba(96, 108, 113, 0.0) 1px solid;
 }
