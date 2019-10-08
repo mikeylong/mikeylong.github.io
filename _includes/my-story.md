@@ -22,7 +22,7 @@ While I did feel like I was making a tiny dent in the universe, I still felt lik
 
 After I left e-elearning, I joined a defense contractor located outside of Austin that had a massive contract with the Army. I helped the core R&D team there with usability improvements in a logistics product that troops used in the field. I then went on to help form a new group in the company that tackled problems in civilian healthcare and civilian logistics. 
 
-> I started a healthy design practice there and hired people who were far more experienced than me.
+> I started a healthy design practice there and hired people with more experience than me.
 
 The transformational point in my career was joining ThoughtWorks.  I learned to let go a little and embrace emergent design; **empower team members and customers to participate in design**.  This was the way I always wanted to work, but I felt like people wanted a fully baked solution before development started, i.e., waterfall development. I felt we needed a balance between getting our ducks in a row and unleashing the creativity and experience of people who weren't ordained as designers.
 
