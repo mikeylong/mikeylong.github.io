@@ -1,10 +1,10 @@
-I remember the first time I picked up a Communication Arts magazine at Barnes & Noble. It was the February 1997 issue featuring SF Bay Area photographer RJ Muna. As I thumbed from back to front of those glossy pages, I felt that I wanted to be part of that world. I felt a kind of kinship with RJ Muna: how he talked about his goals, and his work.
+The February 1997 issue of Communication Arts magazine stood out like a beach ball on a battlefield among the supermodels, superstars, and the ugly-famous of Washington DC. The magazine rack gyrated in a pattern that blurred them all together; they were all the same. I reached for the only inspiration I could find: an iconic photograph by RJ Muna.
 
-> I tried to imagine the people behind the work in that design magazine and I saw thoughtful, creative people wielding a subtle power over our culture.
+> Thumbing from back to front of those glossy magazine pages, I admired the influence those artists and designers had over our fickle cultural desires.
 
-I bought an affordable Pentax camera the very next day. I had no idea what I was doing. I burned through two dozen rolls of film in one week, and made as many trips to the 1-hour photo lab to get them processed. Shoot, process, iterate.
+Quality comes from practice and passion. For the next two weeks, my new Pentax camera would burn through two dozen rolls of black and white film. The subdued inspiration of suburban people, architecture, and the rolling foothills were the subjects for my nascent artistic endeavor.
 
-Soon after teaching myself photography, I worked in a professional darkroom just across the river from the Boise State University campus. I was hired on the spot when I showed them my photography portfolio. I learned so much at that place about color, composition, and visual storytelling. Then, one of the technicians  took me under his wing and said, _The future is digital, Mike. You should buy a Mac and learn Photoshop_. I took his advice, and it changed my life.
+I walked into the media lab across the bridge from the university. After reviewing my photography portfolio, they offered me a job to run a couple of their darkrooms. Color, composition, and chemistry were my teachers now, and the darkroom was the lectern. One of the technicians took me under his wing and said, _The future is digital, Mike. You should buy a Mac and learn Photoshop_. And later he said, _Apple will soon put UNIX in every computer they make, so you should learn that too_. I took his advice, and it changed the course of my life.
 
 > My curiosity about digital photography led me to go deeper into the fractal world of computers and the internet. 
 
@@ -47,4 +47,9 @@ Four years later, we IPO’d.  I cashed out and took a sabbatical so I could foc
 <br>
 Thank you for reading, <br>
 Mike
-
+ <p>
+	 <a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/4208704' target="_clean">
+	   Follow me on
+	   <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 />
+	 </a>
+</p>
