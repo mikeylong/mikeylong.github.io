@@ -43,10 +43,7 @@ After nearly 5 years at Pivotal, I had contributed to just about every aspect of
 > I stayed with Pivotal because of the _People_.
 
 Four years later, we IPO’d.  I cashed out and took a sabbatical so I could focus on writing a young adult novel and a screenplay.  After several months of developing some ideas, I realized that I missed **collaboration and connection with colleagues**.  I can still write the next great novel in my free time, and probably enjoy doing it more than if I had to do it like my life depended on it.
-<br>
-<br>
-Thank you for reading, <br>
+
+Thank you for reading,
+
 Mike
- <p>
-	 <a style="display:inline-block;background-color:#FC4C02;color:#fff;padding:5px 10px 5px 30px;font-size:11px;font-family:Helvetica, Arial, sans-serif;white-space:nowrap;text-decoration:none;background-repeat:no-repeat;background-position:10px center;border-radius:3px;background-image:url('http://badges.strava.com/logo-strava-echelon.png')" href='http://strava.com/athletes/michaellong' target="_clean">Follow me on <img src='http://badges.strava.com/logo-strava.png' alt='Strava' style='margin-left:2px;vertical-align:text-bottom' height=13 width=51 /></a>
-</p>
