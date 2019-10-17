@@ -17,6 +17,7 @@ Please check back soon for updates.
 
 # Presentations
 {% include cf-summit-talk.md %}
+{% include slide-share.md %}
 
 # My Story
 
