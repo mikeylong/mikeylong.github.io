@@ -38,7 +38,7 @@ Thanks to shorter iterations and the willingness of teams to participate in hand
 
 > The way ThoughtWorks worked and how we empowered clients to adopt Agile methods drew me closer to universal principles of humanity, not just design.
 
-Eventually, I joined Pivotal to work on Cloud Foundry. It seemed inevitable given my experience. The people who hired me knew me so well, mostly through social connections, that my interview involved a casual beer and a considerable amount of pressure to say yes and start the next day.
+Eventually, I joined Pivotal to work on the platform and the Cloud Foundry open source project. It seemed inevitable given my experience. The people who hired me knew me so well, mostly through social connections, that my interview involved a casual beer and a considerable amount of pressure to say yes and start the next day.
 
 > Pivotal was like a playground where we constantly experimented with new ways to **integrate design thinking with fast-moving technology teams**.
 
