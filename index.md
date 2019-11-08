@@ -10,15 +10,25 @@ This is a work in Progress.
 ````
 Please check back soon for updates.
 ````
-# Selected Works
-{% include getting-started.md %}
-{% include enso.md %}
-{% include sso-service.md %}
+
+# My Story
+
+{% include my-story.md %}
 
 # Presentations
 {% include cf-summit-talk.md %}
 {% include slide-share.md %}
 
-# My Story
+<br>
 
-{% include my-story.md %}
+```
+This is a work in Progress. 
+```
+````
+Please check back soon for updates.
+````
+
+# Selected Works
+{% include getting-started.md %}
+{% include enso.md %}
+{% include sso-service.md %}
