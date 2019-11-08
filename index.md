@@ -1,6 +1,6 @@
 ---
-title: Michael Long
-description: Solving real human problems.
+title: Mike Long
+description: San Francisco-based Product Designer
 layout: default
 ---
 
