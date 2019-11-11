@@ -1,3 +1,7 @@
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/18KsUpqSIXZvLY" width="100%" height="530" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> 
-	<small> Project work starts on <b>slide 13</b>. For a higher quality experience, download the <a href="/content/mike-long-portfolio-presentation.key" style="text-decoration:underline; font-weight: bold;">Keynote presentation</a> or <a href="/content/mike-long-portfolio-presentation.pdf" style="text-decoration:underline; font-weight: bold;">PDF version</a>.</small>
-</div>
+```
+This is a work in Progress.
+```
+````
+Please check back soon for updates.
+````
+Interim portfolio: <a href="/content/mike-long-portfolio-presentation.key" style="text-decoration:underline; font-weight: bold;">Keynote presentation</a> or <a href="/content/mike-long-portfolio-presentation.pdf" style="text-decoration:underline; font-weight: bold;">PDF version</a>.
