@@ -46,7 +46,7 @@ The onboarding to Pivotal’s Cloud Foundry platform started with a whiteboard s
 
 > When I joined Pivotal, there were only two designers working on Cloud Foundry.
 
-After nearly 5 years at Pivotal, I had contributed to just about every aspect of the product: Command line interface design, documentation, customer onboarding, security, monitoring, etc. And as a manager, **I built a team of talented designers who made a significant and positive impact on every area of the platform**. From hiring, to onboarding, to career growth, we matured the design practice to support a model of dedicated, knowledgable, and colalborative product designers.
+After nearly 5 years at Pivotal, I had contributed to just about every aspect of the product: Command line interface design, documentation, customer onboarding, security, monitoring, etc. And as a manager, **I built a team of talented designers who made a significant and positive impact on every area of the platform**. From hiring, to onboarding, to career growth, we matured the design practice to support a model of dedicated, knowledgable, and collaborative product designers.
 
 > I stayed with Pivotal because of the people and the positive impact we were making in the world.
 
