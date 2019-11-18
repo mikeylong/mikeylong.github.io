@@ -1,7 +1,7 @@
 ---
 title: Mike Long
 description: San Francisco-based Product Designer
-layout: default
+layout: redirect
 ---
 
 # Portfolio Presentation
